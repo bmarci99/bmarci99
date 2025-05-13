@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 Hi, I’m Márton (Marci)—a data scientist, recovering competitive swimmer, and all-round ML tinkerer.  
-By day I design **Monte-Carlo macro-financial simulations, AI strategy workshops, and stress-testing pipelines** for Europe’s banking system. By night you’ll find me fine-tuning LLMs, hacking on sports-analytics side projects, or chasing Bayes factors in Jupyter.
+By day I design **Monte-Carlo macro-financial simulations, AI strategy workshops, and stress-testing pipelines** for Europe’s banking system. By night just swimming :)
 
 Most of my professional work lives behind the firewalls of the European Central Bank and industry clients, so **only a small slice ends up on GitHub**. Still, feel free to browse the open repos below or reach out if something sparks your curiosity!
 
@@ -25,14 +25,10 @@ Most of my professional work lives behind the firewalls of the European Central 
 ### 📂 A Few Public Projects
 | Repo | Peek Inside |
 |------|-------------|
-| **web-domain-magic** | Tiny DSL that turns business-domain definitions into fully-typed REST APIs (TypeScript). |
-| **UFC_Komoly** *(private)* | Gradient-boosted fight-outcome predictor & EDA on UFC stats. |
-| **chess_AI** *(private)* | RL-powered chess engine that hovers ~2000 Elo on Lichess. |
-| **Non-parametric-Stats-Project** | Interactive R Shiny dashboard for Mann-Whitney, Kruskal-Wallis & friends. |
-| **Applied-Statistics-Project** | GLM + Bayesian bootstrap analysis of sports-injury data (Python). |
-| **NLP-Project-mimic-ChatGPT-with-Orca** | Fine-tuning Orca-Mini to imitate ChatGPT responses on niche corpora. |
-| **Crypto_trading** | Back-tests momentum & mean-reversion crypto strategies with pandas. |
-| **Bayesian_data** | Notebook collection: conjugate priors, MCMC, SVI playgrounds (PyMC). |
+| **finetuning-modernbert** | Fine-tuning ModernBERT on monetary policy sentiment analysis. |
+| **Non-parametric-Stats-Project** | GAM, Mann-Whitney, Kruskal-Wallis & friends. |
+| **Applied-Statistics-Project** | Functional data projections using GPs, LSTM, Prophet, KMeans, and polynomial/LOESS smoothing. |
+| **NLP-Project-mimic-ChatGPT-with-Orca** | Fine-tuning Orca-Mini to imitate ChatGPT responses on a niche corpora. |
 
 > ℹ️ *Some repos are private for IP or data-licence reasons. Ping me for a walkthrough if you’re evaluating my work.*
 
@@ -45,4 +41,4 @@ Most of my professional work lives behind the firewalls of the European Central 
 - 🏔️ Currently hacking together an LLM-powered alpine-hut recommender.
 
 ### 🤝 Let’s Connect
-[LinkedIn](https://linkedin.com/in/marton-barta-a4a085178/) · [Twitter / X](https://twitter.com/your-handle) · marton<span style="display:none">spam</span>.barta[at]gmail.com
+[LinkedIn](https://linkedin.com/in/marton-barta-a4a085178/)
