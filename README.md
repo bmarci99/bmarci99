@@ -30,6 +30,7 @@ Most of my professional work lives behind the firewalls of the European Central 
 | **Non-parametric-Stats-Project** | GAM, Mann-Whitney, Kruskal-Wallis & friends. |
 | **Applied-Statistics-Project** | Functional data projections using GPs, LSTM, Prophet, KMeans, and polynomial/LOESS smoothing. |
 | **NLP-Project-mimic-ChatGPT-with-Orca** | Fine-tuning Orca-Mini to imitate ChatGPT responses on a niche corpora. |
+| **NBA_shot_analysis** | Tableau-based dashboard to explore how NBA scoring patterns shift by location and context. |
 
 > ℹ️ *Some repos are private for IP or data-licence reasons. Ping me for a walkthrough if you’re evaluating my work.*
 
