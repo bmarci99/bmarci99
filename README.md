@@ -22,7 +22,7 @@ Most of my professional work lives behind the firewalls of the European Central 
 - **Part-time Data Scientist — Pannon Business Network**  
   - Shipping Hungarian speech-to-speech assistants & computer-vision QC for smart-factory lines.
 
-### 📂 A Few Public Projects
+### 📂 A Few of My Projects on Github
 | Repo | Peek Inside |
 |------|-------------|
 | **ECBERT** | Fine-tuning ModernBERT on monetary policy sentiment analysis. |
