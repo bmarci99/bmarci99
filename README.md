@@ -25,7 +25,7 @@ Most of my professional work lives behind the firewalls of the European Central 
 ### 📂 A Few Public Projects
 | Repo | Peek Inside |
 |------|-------------|
-| **finetuning-modernbert** | Fine-tuning ModernBERT on monetary policy sentiment analysis. |
+| **ECBERT** | Fine-tuning ModernBERT on monetary policy sentiment analysis. |
 | **Non-parametric-Stats-Project** | GAM, Mann-Whitney, Kruskal-Wallis & friends. |
 | **Applied-Statistics-Project** | Functional data projections using GPs, LSTM, Prophet, KMeans, and polynomial/LOESS smoothing. |
 | **NLP-Project-mimic-ChatGPT-with-Orca** | Fine-tuning Orca-Mini to imitate ChatGPT responses on a niche corpora. |
