@@ -16,15 +16,25 @@ By day I design **Monte-Carlo macro-financial simulations, AI strategy workshops
 
 Most of my professional work lives behind the firewalls of the European Central Bank and industry clients, so **only a small slice ends up on GitHub**. Still, feel free to browse the open repos below or reach out if something sparks your curiosity!
 
+
 ### 🧳 Currently
 - **Stress-Test Expert Analyst, Data Science & Quant Modelling — European Central Bank** (Feb 2024 → now)  
   - 10 000-path Monte-Carlo stress scenarios, multi-agent RAG automation, and AI opportunity mapping across 109 banks.  
 - **Part-time Data Scientist — Pannon Business Network**  
   - Shipping Hungarian speech-to-speech assistants & computer-vision QC for smart-factory lines.
+    
+### 🧪 Thesis (Politecnico di Milano)
+**Auditable GNN Toxicity for Small Molecules**
+- Model: **D-MPNN** multi-task toxicity (Tox21) with **Integrated Gradients** → **SMARTS mapping** → **toxicophore knowledge base** for **assay-aware, grounded explanations**.
+- Math bits: attribution reliability, **threshold calibration**, uncertainty awareness, and evaluation beyond AUROC (per-assay operating points).
+- Why it matters: explanations chemists can interpret; artifacts that pass audit (versioned rules, provenance).
+
+> I have published the publish cleaned codes for reproducibility.
 
 ### 📂 A Few of My Projects on Github
 | Repo | Peek Inside |
 |------|-------------|
+| **Auditable GNN for Molecules** | xAI for Toxicity Prediction as a thesis for my masters. |
 | **ECBERT** | Fine-tuning ModernBERT on monetary policy sentiment analysis. |
 | **Bayesian_Project** | Spatio-temporal Bayesian modeling of ozone concentrations using STAN and hierarchical priors. |
 | **Non-parametric-Stats-Project** | GAM, Mann-Whitney, Kruskal-Wallis & friends. |
