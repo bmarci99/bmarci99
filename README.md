@@ -8,7 +8,7 @@ Frankfurt am Main · MSc Mathematical Engineering (AI & Quant Finance)
 
 ## About
 
-I design AI systems for high-stakes environments.
+I design AI systems for 2 companies and on the side to myself.
 
 My work spans institutional macro-financial modeling, real-time conversational humanoid systems, and explainable scientific ML. I focus on building end-to-end pipelines that are mathematically grounded, scalable, and auditable.
 
