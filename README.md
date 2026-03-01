@@ -1,108 +1,68 @@
-<h1 align="center">Márton Barta</h1>
+<!-- ================= HERO ================= -->
+
 <p align="center">
-AI Systems Engineer · Quantitative ML · Embodied & Institutional AI  
-Frankfurt am Main · MSc Mathematical Engineering (AI & Quant Finance)
+  <img src="https://media.tenor.com/mHXNv7TSCLMAAAAi/detective-conan.gif" width="260"/>
 </p>
 
----
+<p align="center">
+  <strong>Pattern Recognition · Structural Systems · Audit-Ready AI</strong>
+</p>
 
-## About
+<p align="center">
+  <sub>
+  Institutional AI · Humanoid Systems · LLM/VLM Architectures · Cloud Engineering
+  </sub>
+</p>
 
-I design AI systems for 2 companies and on the side to myself.
+<br/>
 
-My work spans institutional macro-financial modeling, real-time conversational humanoid systems, and explainable scientific ML. I focus on building end-to-end pipelines that are mathematically grounded, scalable, and auditable.
+<hr style="border: 0; height: 1px; background: #222;" />
 
-Most production systems are not public due to institutional constraints. This GitHub showcases research prototypes, reproducible architectures, and experimental frameworks.
+<!-- ================= RESEARCH ================= -->
 
----
+## 🧠 Research & Systems Focus
 
-## Core Domains
+<p align="center">
+  <img src="https://img.shields.io/badge/Institutional_AI-0d1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Humanoid_AI-161b22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM_&_VLM_Systems-1f2428?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Monte_Carlo_&_Statistics-24292f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_Systems-2d333b?style=for-the-badge"/>
+  
+</p>
 
-### 1. Macro-Financial AI Systems
-At the European Central Bank, I worked on quantitative stress-testing and scenario generation systems, including:
+<br/>
 
-- High-dimensional sparse and structural VAR and simulation frameworks  
-- Structured LLM pipelines with schema-driven validation  
-- Multi-agent Retrieval-Augmented Generation (RAG) systems  
-- Scalable distributed ML workflows (AWS, Kubernetes, Cloudera)  
-- Quantitative calibration and macro-financial transmission modeling  
+<p align="center">
+  <sub>
+  Sparse & Structural VAR · Large-Scale Simulation · Multi-Agent LLM Systems ·  
+  Dialogue Trajectory Modeling · Bayesian Inference · Graph Neural Networks ·  
+  Reinforcement Learning · Probabilistic Modeling
+  </sub>
+</p>
 
-Focus: reliable AI systems under regulatory and supervisory constraints.
+<br/>
 
----
+<hr style="border: 0; height: 1px; background: #222;" />
 
-### 2. Embodied AI & Human–Humanoid Interaction
+<!-- ================= INFRA ================= -->
 
-At PBN GmbH, I design end-to-end conversational AI systems for humanoid platforms aimed at relational well-being and loneliness reduction.
+## ⚙️ Infrastructure & Engineering
 
-Work includes:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,aws,azure,kubernetes,docker,git,github&theme=dark" />
+</p>
 
-- Real-time multilingual speech-to-speech pipelines  
-- Conversation trajectory modeling and targeted intervention design  
-- Mathematical methodologies for quantifying relational dynamics  
-- Dialogue embedding analysis (longitudinal interaction modeling)  
-- Multi-modal signal integration (speech, affect, behavioral telemetry)  
-- Hybrid edge–cloud deployment across Azure and AWS  
+<br/>
 
-Focus: measurable, adaptive, and intervention-aware conversational systems.
+<p align="center">
+  <sub>
+  Distributed ML · Cloud-Native Systems · Schema-Validated Pipelines ·  
+  GitHub Copilot Agents · Cloudera · CI/CD ·  
+  Audit-Oriented Architecture · Edge–Cloud Deployment
+  </sub>
+</p>
 
----
+<br/>
 
-### 3. Explainable & Scientific Machine Learning
-
-MSc Thesis — Politecnico di Milano
-
-Auditable toxicity prediction for small molecules using:
-
-- Directed Message Passing Neural Networks (D-MPNN)  
-- Integrated Gradients attribution  
-- SMARTS mapping and toxicophore knowledge bases  
-- Assay-specific threshold calibration  
-- Evaluation beyond AUROC (operating-point analysis)  
-
-Focus: interpretable, versioned, and audit-ready ML artifacts.
-
----
-
-## Selected Public Projects
-
-### Auditable GNN for Molecules  
-Explainable multi-task toxicity modeling with attribution mapping and calibration.
-
-### ECBERT  
-Fine-tuning ModernBERT for monetary policy sentiment analysis.
-
-### Bayesian Spatio-Temporal Modeling  
-Hierarchical ozone modeling with STAN and spatial priors.
-
-### Additional Projects  
-Statistical learning, NLP experimentation, probabilistic modeling, and ML systems prototypes.
-
----
-
-## Technical Stack
-
-**Languages**  
-Python · R · SQL · C++ · MATLAB  
-
-**ML & Modeling**  
-PyTorch · TensorFlow · JAX · Hugging Face · scikit-learn · PyMC  
-Sparse and Structrual VAR · Bayesian modeling · Graph Neural Networks · Multi-Agent Systems  
-
-**Infrastructure & Engineering**  
-AWS · Azure · Kubernetes · Spark · Cloudera · GitLab CI/CD  
-Schema-driven validation · Structured JSON/YAML generation  
-
----
-
-## Background
-
-Former professional swimmer and Hungary’s first World Junior Champion.  
-Now focused on building disciplined, reliable AI systems.
-
----
-
-## Contact
-
-LinkedIn: linkedin.com/in/marton-barta-a4a085178  
-GitHub: github.com/bmarci99
+<hr style="border: 0; height: 1px; background: #222;" />
